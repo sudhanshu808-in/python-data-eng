@@ -14,6 +14,9 @@ print(names[1]) # Accesses the second element: "sk"
 names.insert(1,"himanshu") # Inserts "himanshu" at index 1
 salary.insert(1,1900)   # Inserts 1900 at index 1
 
+
+# append in list
+salary.append(2900) 
 # Displaying the lists after insertion.
 # print(names+salary)
 
